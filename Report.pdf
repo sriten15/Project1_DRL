@@ -1,0 +1,5 @@
+Algorithms used for this Project:
+
+I have used the Deep-Q-Network implementation with 37 input states to solve this problem. It took 235 episodes to solve the problem.
+
+Then i tweakede the hyper parameters for this problem and my agent solved it in 10 episodes
